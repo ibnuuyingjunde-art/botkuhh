@@ -1,0 +1,746 @@
+[
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "layla",
+        "deskripsi": "Hero marksman paling mudah dikuasai. Serangan dasarnya memiliki jangkauan yang semakin jauh seiring level naik."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "tigreal",
+        "deskripsi": "Hero tank dengan ultimate yang bisa menarik semua musuh ke satu titik. Ikon tank pemula di game ini."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "alucard",
+        "deskripsi": "Hero fighter dengan lifesteal sangat tinggi. Semakin banyak musuh di sekitarnya, semakin kuat serangan dan regenerasinya."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "nana",
+        "deskripsi": "Hero mage support yang bisa mengubah musuh menjadi kucing lucu. Ultimate-nya memanggil Molina untuk menjebak musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "balmond",
+        "deskripsi": "Hero fighter dengan ultimate yang memberikan damage berdasarkan persentase HP musuh yang tersisa."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "saber",
+        "deskripsi": "Hero assassin dengan ultimate yang melempar musuh ke udara dan menusuknya berkali-kali. Sangat efektif untuk solo kill."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "alice",
+        "deskripsi": "Hero mage/tank yang menyerap bola merah di map untuk menambah HP permanen. Ultimate-nya menguras HP musuh di sekitarnya."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "nono",
+        "deskripsi": "Hero mage dengan robot-robot kecil yang menyerang musuh. Bisa mengirim bom ke musuh dari jarak jauh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "franco",
+        "deskripsi": "Hero tank dengan hook yang bisa menarik musuh dari jarak sangat jauh. Ultimate-nya membuat musuh tidak bisa bergerak sama sekali."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "bane",
+        "deskripsi": "Hero fighter bertema bajak laut yang melempar botol rum dan memanggil hiu raksasa sebagai ultimate."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "bruno",
+        "deskripsi": "Hero marksman dengan bola energi yang memantul antar musuh. Setiap serangan dasar mengurangi cooldown ultimate-nya."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "clint",
+        "deskripsi": "Hero marksman koboi dengan serangan pasif yang menembus musuh dalam satu baris. Ultimate-nya menembak cepat ke depan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "rafaela",
+        "deskripsi": "Hero support malaikat yang menyembuhkan rekan tim dan bisa memperlambat musuh. Ultimate-nya membutakan dan menyakiti musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "eudora",
+        "deskripsi": "Hero mage dengan combo petir yang sangat mematikan. Bisa membunuh musuh dalam 3 skill jika item sudah lengkap."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "zilong",
+        "deskripsi": "Hero fighter dengan tombak naga. Ultimate-nya meningkatkan kecepatan serangan dan gerak secara drastis."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "fanny",
+        "deskripsi": "Hero assassin yang terbang menggunakan kabel baja dengan energi. Dianggap hero paling susah dikuasai di game ini."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "kagura",
+        "deskripsi": "Hero mage dengan payung sakti sebagai senjata. Memiliki mekanik skill yang sangat kompleks dan membutuhkan koordinasi tinggi."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "minotaur",
+        "deskripsi": "Hero tank setengah banteng yang mengumpulkan rage untuk masuk mode kuat. Ultimate-nya bisa membuat seluruh tim musuh terpental."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "lolita",
+        "deskripsi": "Hero tank support dengan perisai raksasa yang bisa memblokir seluruh proyektil musuh. Ultimate-nya meluncurkan palu ke musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "hayabusa",
+        "deskripsi": "Hero assassin ninja dengan bayangan kembar. Ultimate-nya mengirim bayangan untuk menyerang satu musuh berkali-kali."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "freya",
+        "deskripsi": "Hero fighter valkyrie yang mengumpulkan sacred orb dari serangan dasar. Setelah terkumpul, bisa melompat dan menghajar musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "gord",
+        "deskripsi": "Hero mage dengan laser energi sebagai ultimate yang sangat menyakitkan jika musuh terkena penuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "cyclops",
+        "deskripsi": "Hero mage bermata satu dengan bola planet yang berputar. Setiap skill mengenai musuh, cooldown-nya berkurang drastis."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "estes",
+        "deskripsi": "Hero support dengan kemampuan heal paling kuat di game ini. Ultimate-nya menyebarkan heal ke seluruh rekan tim secara bersamaan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "hilda",
+        "deskripsi": "Hero fighter/tank yang regenerasi HP-nya sangat cepat saat berada di semak. Ultimate-nya melompat dan menghantam musuh yang ditandai."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "aurora",
+        "deskripsi": "Hero mage dengan kekuatan es yang mengumpulkan frost energy. Jika penuh, skill berikutnya akan membekukan musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "lapu-lapu",
+        "deskripsi": "Hero fighter pahlawan nasional Filipina dengan dua senjata. Ultimate-nya mengubah dua pedang menjadi satu senjata besar yang lebih dahsyat."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "vexana",
+        "deskripsi": "Hero mage dengan kekuatan kutukan. Ultimate-nya memanggil boneka dari musuh yang mati untuk menyerang tim lawan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "roger",
+        "deskripsi": "Hero yang bisa berubah antara manusia marksman dan manusia serigala fighter. Dua mode dengan gaya bermain yang berbeda."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "karrie",
+        "deskripsi": "Hero marksman dengan serangan pasif yang menumpuk lightwheel. Setelah 5 tumpukan, serangan berikutnya sangat kuat dan menembus."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "gatotkaca",
+        "deskripsi": "Hero tank fighter dari mitologi wayang Indonesia. Ultimate-nya terbang ke udara lalu menghantam tanah dengan keras."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "johnson",
+        "deskripsi": "Hero tank yang bisa berubah menjadi mobil sport dan membawa rekan tim. Jika menabrak musuh, musuh akan terpental dan stun."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "chou",
+        "deskripsi": "Hero fighter terinspirasi dari Bruce Lee. Skill terakhirnya bisa menendang musuh ke arah mana saja, bahkan ke tower musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "sun",
+        "deskripsi": "Hero fighter terinspirasi dari Sun Wukong yang memanggil kera kloning untuk membantu bertarung dan mengecoh musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "alpha",
+        "deskripsi": "Hero fighter cyborg dengan skill charge yang kuat. Ultimate-nya memanggil Beta si robot terbang untuk menembak musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "ruby",
+        "deskripsi": "Hero fighter dengan sabit besar dan kemampuan lifesteal pasif. Setiap skill memberikan efek tarik ke musuh yang kena."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "yi sun-shin",
+        "deskripsi": "Hero yang bisa dimainkan sebagai marksman atau assassin. Ultimate-nya melihat seluruh map dan menembakkan panah ke semua musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "moskov",
+        "deskripsi": "Hero marksman dengan tombak yang menembus musuh. Jika musuh terpojok di tembok, damage-nya akan meningkat drastis."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "grock",
+        "deskripsi": "Hero tank dengan kemampuan membuat tembok batu. Di dekat tembok atau dinding map, defense-nya meningkat drastis."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "hylos",
+        "deskripsi": "Hero tank setengah kuda dengan mana yang berfungsi sebagai HP tambahan. Ultimate-nya membuat jalur kuda yang mempercepat rekan tim."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "valir",
+        "deskripsi": "Hero mage dengan kekuatan api yang bisa mendorong musuh. Pasif-nya membuat musuh tidak bisa menggunakan skill saat terkena api."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "diggie",
+        "deskripsi": "Hero support bebek tua dengan mesin waktu. Ultimate-nya memberikan imunitas CC ke seluruh rekan tim di sekitarnya."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "yarns",
+        "deskripsi": "Hero support dengan benang yang menjebak musuh. Ultimate-nya menciptakan area tidur yang membuat musuh yang masuk tertidur."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "lesley",
+        "deskripsi": "Hero marksman sniper dengan peluru tak terbatas. Ultimate-nya mengunci satu musuh dan menembaknya dari jarak sangat jauh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "angela",
+        "deskripsi": "Hero support yang bisa merasuki tubuh rekan tim dan memberikan shield. Ultimate-nya terbang ke lokasi rekan tim manapun di map."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "gusion",
+        "deskripsi": "Hero assassin mage dengan combo dagger super cepat. Bisa membunuh musuh dalam hitungan detik dengan combo yang sempurna."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "martis",
+        "deskripsi": "Hero fighter dengan dua rantai penarik musuh. Ultimate-nya menjadi kebal sementara dan langsung membunuh musuh ber-HP rendah."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "selena",
+        "deskripsi": "Hero assassin/mage yang bisa berganti antara mode elf dan abyssal. Dikenal dengan jebakan yang sangat susah dihindari."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "irithel",
+        "deskripsi": "Hero marksman yang menunggangi harimau bernama Leo. Bisa menyerang sambil bergerak bebas, tidak seperti marksman lainnya."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "lunox",
+        "deskripsi": "Hero mage dengan dua mode chaos dan order. Harus menyeimbangkan dua kekuatan berlawanan untuk memaksimalkan damage."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "hanabi",
+        "deskripsi": "Hero marksman dengan kunai yang memantul ke musuh terdekat. Ultimate-nya merantai semua musuh di area menjadi tidak bisa bergerak."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "uranus",
+        "deskripsi": "Hero tank dengan regenerasi HP yang sangat tinggi. Semakin sering diserang musuh, semakin cepat HP-nya pulih kembali."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "hanzo",
+        "deskripsi": "Hero assassin yang bisa mengirim roh keluar dari tubuh untuk menyerang musuh. Saat roh keluar, tubuh aslinya harus dijaga."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "belerick",
+        "deskripsi": "Hero tank pohon raksasa yang menyerap damage dan membalikkannya ke penyerang. Ultimate-nya menjebak musuh dengan akar tanaman."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "kimmy",
+        "deskripsi": "Hero marksman/mage yang menggunakan senjata kimia. Bisa bergerak bebas sambil menggunakan skill, tidak seperti hero lain."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "thamuz",
+        "deskripsi": "Hero fighter iblis dengan dua sabit besar. Ultimate-nya meningkatkan ukuran tubuh dan kekuatan serangan secara drastis."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "badang",
+        "deskripsi": "Hero fighter dengan kemampuan angin puyuh. Skill temboknya bisa menjebak musuh jika digabung dengan tiupan anginnya."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "khufra",
+        "deskripsi": "Hero tank mumi dengan tubuh yang bisa memantul. Pasif-nya secara otomatis memblokir dash musuh yang melewatinya."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "esmeralda",
+        "deskripsi": "Hero mage/tank yang mengubah shield menjadi HP. Semakin banyak shield yang diserap, semakin sulit dia untuk dibunuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "terizla",
+        "deskripsi": "Hero fighter dengan palu besar yang tidak bisa kena slow atau stun saat menggunakan skill. Kebal CC saat animasi skill berjalan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "x.borg",
+        "deskripsi": "Hero fighter cyborg yang menggunakan api. Saat armor-nya hancur, dia masuk mode darurat yang justru menjadi lebih berbahaya."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "dyrroth",
+        "deskripsi": "Hero fighter pangeran iblis yang memiliki skill merobek shield dan HP musuh secara bersamaan dalam satu serangan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "masha",
+        "deskripsi": "Hero fighter dengan tiga bar HP. Setiap bar HP habis mendapat efek khusus. Ultimate-nya menghancurkan item musuh sementara."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "wanwan",
+        "deskripsi": "Hero marksman yang harus mengenai semua titik kelemahan musuh untuk mengaktifkan ultimate yang menembak cepat ke semua arah."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "baxia",
+        "deskripsi": "Hero tank dengan cangkang kura-kura raksasa yang bisa menggelinding. Pasif-nya mengurangi efek regenerasi HP seluruh musuh di map."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "cecilion",
+        "deskripsi": "Hero mage vampir yang damage-nya meningkat setiap kali skill mengenai musuh tanpa batas. Bisa menjadi sangat kuat di late game."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "carmilla",
+        "deskripsi": "Hero support vampir yang bisa menyatukan HP musuh. Jika dua musuh tersambung, damage ke satu musuh juga melukai yang lain."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "atlas",
+        "deskripsi": "Hero tank dengan rantai yang bisa menghubungkan dirinya ke musuh. Ultimate-nya menarik semua musuh yang terhubung ke satu titik."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "luo yi",
+        "deskripsi": "Hero mage dengan tanda yin dan yang. Jika dua musuh bertanda berbeda bertemu, terjadi ledakan dan bisa membuka portal teleportasi tim."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "yu zhong",
+        "deskripsi": "Hero fighter naga hitam yang skill terakhirnya mengubah dirinya menjadi naga sesungguhnya dengan sayap besar."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "khaleed",
+        "deskripsi": "Hero fighter dengan pasir gurun sebagai senjata. Bisa berselancar di tanah menggunakan pasir dan melempar musuh ke udara."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "barats",
+        "deskripsi": "Hero tank yang tumbuh lebih besar setiap kali membunuh minion atau musuh. Semakin besar, semakin kuat dan tahan banting."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "brody",
+        "deskripsi": "Hero marksman dengan serangan dasar yang lambat tapi sangat menyakitkan. Setiap serangan menumpuk abyss mark di musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "yve",
+        "deskripsi": "Hero mage dengan kontrol area yang sangat luas. Ultimate-nya membuat grid energi besar yang bisa dikontrol secara manual."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "mathilda",
+        "deskripsi": "Hero support yang bisa mengangkut rekan tim dengan kecepatan tinggi. Ultimate-nya berputar mengelilingi rekan tim sambil menyerang musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "paquito",
+        "deskripsi": "Hero fighter petinju dengan combo skill yang mengalir. Setelah menggunakan semua skill, satu skill bisa digunakan lagi segera."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "gloo",
+        "deskripsi": "Hero tank berbentuk slime yang bisa memisahkan bagian tubuhnya. Ultimate-nya menempel ke musuh dan mencuri sebagian HP-nya."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "beatrix",
+        "deskripsi": "Hero marksman dengan empat jenis senjata berbeda yang bisa diganti kapan saja. Setiap senjata memiliki gaya serangan yang unik."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "benedetta",
+        "deskripsi": "Hero assassin yang bisa menyerap satu serangan musuh dan membalikkannya. Bergerak dengan sangat lincah menggunakan bayangan pedang."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "aamon",
+        "deskripsi": "Hero assassin yang menjadi tidak terlihat saat skill aktif. Menyerang dari bayang-bayang dengan shard kristal yang mematikan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "edith",
+        "deskripsi": "Hero tank/marksman yang bisa dikendalikan oleh hero lain. Saat ultimate aktif, memanggil roh ksatria Phylax untuk bertarung."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "floryn",
+        "deskripsi": "Hero support dengan benih tanaman ajaib. Bisa memberikan item ke rekan tim dan ultimate-nya menyembuhkan seluruh tim dari jarak jauh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "natan",
+        "deskripsi": "Hero marksman dari masa depan yang memanggil dirinya sendiri dari dimensi lain. Kloning-nya juga semakin kuat seiring item bertambah."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "aulus",
+        "deskripsi": "Hero fighter dengan kapak raksasa yang damage serangan dasarnya terus meningkat seiring stack. Ultimate-nya memberikan boost serangan masif."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "melissa",
+        "deskripsi": "Hero marksman dengan boneka benang misterius. Ultimate-nya membuat area kecil yang tidak bisa dimasuki musuh dari luar."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "xavier",
+        "deskripsi": "Hero mage dengan proyektil lurus tanpa batas jangkauan. Ultimate-nya membuat semua skill-nya menembus seluruh penjuru map."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "julian",
+        "deskripsi": "Hero fighter/mage tanpa ultimate konvensional. Bisa menggabungkan tiga skill menjadi satu serangan kombinasi yang dahsyat."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "fredrinn",
+        "deskripsi": "Hero tank/fighter yang menyimpan damage yang diterima sebagai energi, lalu melepaskannya sebagai serangan ke musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "yin",
+        "deskripsi": "Hero fighter yang bisa membawa satu musuh ke dimensi lain untuk duel 1v1. Di dalam dimensinya, tidak ada yang bisa ikut campur."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "joy",
+        "deskripsi": "Hero assassin dengan gerakan tari yang cepat. Harus menjaga ritme serangan agar damage yang dihasilkan menjadi maksimal."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "novaria",
+        "deskripsi": "Hero mage dengan bola es raksasa yang bergulir dan membesar. Semakin jauh bola bergulir, semakin besar damage yang dihasilkan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "arlott",
+        "deskripsi": "Hero assassin fighter dengan topeng iblis yang berubah saat ultimate aktif. Bisa menandai musuh dan mengejar tanpa batas jangkauan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "nolan",
+        "deskripsi": "Hero assassin dengan pedang dimensi yang membuka celah ruang. Bergerak dengan sangat cepat menggunakan portal kecil."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "cici",
+        "deskripsi": "Hero fighter dengan yo-yo raksasa sebagai senjata. Bisa mengayun dan berputar dengan yo-yo untuk menyerang area yang luas."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "chip",
+        "deskripsi": "Hero support robot kecil yang bisa membuat portal teleportasi untuk seluruh tim. Sangat memudahkan rotasi dan penyergapan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "zhuxin",
+        "deskripsi": "Hero mage dengan kekuatan spiritual yang bisa merasuki musuh. Ultimate-nya mengendalikan musuh untuk menyerang timnya sendiri."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "lukas",
+        "deskripsi": "Hero fighter dengan kekuatan mekanik dan api. Menggunakan punch beruntun yang makin lama makin kuat setiap kali combo-nya dilanjutkan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "suyou",
+        "deskripsi": "Hero assassin dengan dua pedang dan gaya bertarung akrobatik. Bisa berganti mode serangan dan mengejar musuh dengan sangat lincah."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "granger",
+        "deskripsi": "Hero marksman dengan revolver maut. Peluru terakhir di setiap magazinenya selalu critical dan bisa ditembak lebih jauh dari biasa."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "pharsa",
+        "deskripsi": "Hero mage yang bisa berubah menjadi burung untuk berpindah posisi. Ultimate-nya menjatuhkan serangan udara ke area yang dipilih."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "lancelot",
+        "deskripsi": "Hero assassin pendekar pedang yang sangat lincah dengan tiga dash berbeda. Nyaris tidak bisa dikenai CC saat skill aktif."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "kadita",
+        "deskripsi": "Hero mage ocean warrior yang bisa membersihkan semua CC dari dirinya. Ultimate-nya menyelam lalu muncul dengan gelombang besar."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "silvanna",
+        "deskripsi": "Hero fighter/mage yang bisa mengurung musuh dalam lingkaran cahaya. Selama di dalam lingkaran, musuh tidak bisa melarikan diri."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "chang'e",
+        "deskripsi": "Hero mage bulan yang menembakkan meteor dalam jumlah banyak. Ultimate-nya membuatnya kebal sementara sambil menghujani musuh dengan meteor."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "ling",
+        "deskripsi": "Hero assassin yang bisa berlari di atas tembok arena. Ultimate-nya membersihkan area dan membuat musuh di sekitarnya melayang."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "popol dan kupa",
+        "deskripsi": "Hero duo yang terdiri dari bocah dan serigala. Keduanya bisa bergerak secara independen untuk mengepung musuh dari dua arah."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "claude",
+        "deskripsi": "Hero marksman dengan monyet kecil bernama Dexter. Ultimate-nya bertukar posisi dengan Dexter sambil menembak cepat ke semua arah."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "kaja",
+        "deskripsi": "Hero fighter/support yang bisa menangkap satu musuh dan menyeretnya ke dalam tim. Combo dengan hero CC lain sangat mematikan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "guinevere",
+        "deskripsi": "Hero fighter/mage dengan combo knock up yang kuat. Setiap skill yang mengenai musuh yang sudah melayang memberi efek tambahan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "harith",
+        "deskripsi": "Hero mage kucing dengan cooldown yang sangat rendah. Setiap kali musuh menggunakan skill, cooldown Harith berkurang."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "minsitthar",
+        "deskripsi": "Hero fighter dengan tombak dan perisai. Ultimate-nya membuat area di mana musuh tidak bisa menggunakan skill dash atau blink."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "harley",
+        "deskripsi": "Hero assassin pesulap muda dengan topi ajaib. Bisa berpindah posisi ke topinya dan kembali lagi, membuat musuh bingung."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "lylia",
+        "deskripsi": "Hero mage anak kecil dengan boneka gelap. Bisa kembali ke posisi sebelumnya menggunakan ultimate seperti memutar waktu."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "aldous",
+        "deskripsi": "Hero fighter yang mengumpulkan stack dari minion dan hero yang dibunuh. Semakin banyak stack, serangan dasarnya semakin sakit."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "s'yva",
+        "deskripsi": "Hero support dengan tanaman yang bisa menyembuhkan rekan tim. Ultimate-nya memanggil pohon besar yang memperlambat musuh di sekitarnya."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "vale",
+        "deskripsi": "Hero mage dengan kekuatan angin yang skillnya bisa diupgrade pilih sesuai kebutuhan. Sangat fleksibel sesuai situasi battle."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "leomord",
+        "deskripsi": "Hero fighter/tank yang bisa memanggil kuda phantom untuk ditunggangi. Saat menunggang kuda, statistiknya meningkat drastis."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "karina",
+        "deskripsi": "Hero assassin dengan dua pedang es. Sangat efektif membunuh musuh ber-HP rendah karena ultimate-nya bisa direset jika membunuh musuh."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "odette",
+        "deskripsi": "Hero mage angsa putih yang ultimate-nya mengeluarkan gelombang suara berbahaya selama beberapa detik dari posisinya berdiri."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "argus",
+        "deskripsi": "Hero fighter malaikat jatuh yang saat ultimate aktif menjadi tidak bisa mati selama beberapa detik, lalu memulihkan HP."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "pangako",
+        "deskripsi": "Hero support yang bisa memberikan perisai dan mempercepat rekan tim. Ultimate-nya mengirim rekan tim ke lokasi yang ditentukan."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "helcurt",
+        "deskripsi": "Hero assassin alien yang bisa mematikan skill musuh sesaat. Ultimate-nya menyelimuti seluruh map dalam kegelapan sesaat."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "zhask",
+        "deskripsi": "Hero mage yang memanggil alien Nightmaric Spawn. Bisa masuk ke dalam Spawn-nya dan mengontrol langsung dari dalam."
+    },
+    {
+        "img": "",
+        "fullimg": "",
+        "jawaban": "jawhead",
+        "deskripsi": "Hero tank/fighter robot yang bisa melempar rekan tim maupun musuh ke arah yang diinginkan."
+    }
+]
