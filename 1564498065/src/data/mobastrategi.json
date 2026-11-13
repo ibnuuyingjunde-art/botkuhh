@@ -1,0 +1,98 @@
+[
+  {
+    "index": 0,
+    "soal": "⚔️ *Knight* (HP: 200/1200) vs 🐉 *Fire Dragon* (HP: 800/1500)\nMP kamu: 300/300\nMusuh baru saja menyerang keras!\n\nSkill tersedia:\nA. Sword Slash (Basic)\nB. Iron Wall (Tingkatkan DEF 50%)\nC. Shield Bash (Stun musuh)\nD. Crusader's Wrath (Ultimate damage)\n\nSkill terbaik untuk bertahan hidup?",
+    "jawaban": "B",
+    "alt": "Iron Wall"
+  },
+  {
+    "index": 1,
+    "soal": "🔮 *Mage* (HP: 750/750) vs 👺 *Goblin* (HP: 100/500)\nMP kamu: 600/600\nMusuh hampir mati!\n\nSkill tersedia:\nA. Arcane Bolt (Basic)\nB. Fireball (1.5x damage + burn)\nC. Frost Nova (Slow musuh)\nD. Meteor Storm (Ultimate)\n\nSkill paling efisien untuk mengakhiri battle?",
+    "jawaban": "A",
+    "alt": "Arcane Bolt"
+  },
+  {
+    "index": 2,
+    "soal": "🗡️ *Assassin* (HP: 700/700) vs 🦹 *Dark Knight* (HP: 1200/1200)\nMP kamu: 450/450\nIni ronde pertama!\n\nSkill tersedia:\nA. Backstab (Selalu crit di ronde pertama)\nB. Shadow Strike (1.6x damage)\nC. Smokescreen (Blind musuh)\nD. Death Mark (Ultimate)\n\nSkill terbaik di ronde pertama?",
+    "jawaban": "A",
+    "alt": "Backstab"
+  },
+  {
+    "index": 3,
+    "soal": "🛡️ *Paladin* (HP: 300/1050) vs 💀 *Lich King* (HP: 2000/2000)\nMP kamu: 450/450\nHP kamu kritis!\n\nSkill tersedia:\nA. Holy Strike (Basic)\nB. Sacred Heal (Pulih 20% max HP)\nC. Divine Shield (Block 30% damage)\nD. Judgment (Damage lebih besar saat HP rendah)\n\nSkill terbaik saat HP kritis?",
+    "jawaban": "D",
+    "alt": "Judgment"
+  },
+  {
+    "index": 4,
+    "soal": "🌿 *Druid* (HP: 900/900) vs 👹 *Orc Warrior* (HP: 900/900)\nMP kamu: 550/550\nHP sama-sama penuh, ronde awal!\n\nSkill tersedia:\nA. Nature's Grasp (Basic + regen HP kecil)\nB. Thorn Whip (Pantulkan damage)\nC. Rejuvenation (Regen HP 3 ronde)\nD. Wrath of Nature (Ultimate + racun)\n\nSkill terbaik untuk keunggulan jangka panjang?",
+    "jawaban": "C",
+    "alt": "Rejuvenation"
+  },
+  {
+    "index": 5,
+    "soal": "🏹 *Archer* (HP: 850/850) vs 🐉 *Fire Dragon* (HP: 1500/1500)\nMP kamu: 400/400\nMusuh memiliki DEF sangat tinggi!\n\nSkill tersedia:\nA. Arrow Shot (Basic)\nB. Piercing Arrow (Abaikan 30% DEF)\nC. Eagle Eye (Tingkatkan CRIT 30%)\nD. Rain of Arrows (Ultimate, crit terjamin)\n\nSkill terbaik melawan musuh DEF tinggi?",
+    "jawaban": "B",
+    "alt": "Piercing Arrow"
+  },
+  {
+    "index": 6,
+    "soal": "🔮 *Mage* (HP: 400/750) vs 🦹 *Dark Knight* (HP: 200/1200)\nMP kamu: 150/600\nMP hampir habis, musuh hampir mati!\n\nSkill tersedia:\nA. Arcane Bolt (Basic, gratis MP)\nB. Fireball (60 MP)\nC. Frost Nova (70 MP)\nD. Meteor Storm (150 MP)\n\nSkill terbaik saat MP hampir habis?",
+    "jawaban": "A",
+    "alt": "Arcane Bolt"
+  },
+  {
+    "index": 7,
+    "soal": "⚔️ *Knight* (HP: 1200/1200) vs 💀 *Lich King* (HP: 2000/2000)\nMP kamu: 300/300\nBoss battle dimulai! Lich King sangat kuat!\n\nSkill tersedia:\nA. Sword Slash (Basic)\nB. Shield Bash (Stun 1 ronde)\nC. Iron Wall (DEF +50%)\nD. Crusader's Wrath (Ultimate)\n\nSkill terbaik di awal boss battle?",
+    "jawaban": "C",
+    "alt": "Iron Wall"
+  },
+  {
+    "index": 8,
+    "soal": "🗡️ *Assassin* (HP: 350/700) vs 👹 *Orc Warrior* (HP: 900/900)\nMP kamu: 450/450\nMusuh bergerak lambat karena efek slow!\n\nSkill tersedia:\nA. Backstab (Basic)\nB. Shadow Strike (1.6x damage)\nC. Smokescreen (Blind musuh)\nD. Death Mark (3.5x damage, ultimate)\n\nMoment terbaik untuk ultimate?",
+    "jawaban": "D",
+    "alt": "Death Mark"
+  },
+  {
+    "index": 9,
+    "soal": "🛡️ *Paladin* (HP: 1050/1050) vs 🐉 *Fire Dragon* (HP: 1500/1500)\nMP kamu: 200/450\nDragon akan menyerang sangat keras ronde ini!\n\nSkill tersedia:\nA. Holy Strike (Basic)\nB. Sacred Heal (70 MP)\nC. Divine Shield (Block 30% damage, 80 MP)\nD. Judgment (120 MP)\n\nMP terbatas, skill terbaik untuk bertahan?",
+    "jawaban": "A",
+    "alt": "Holy Strike"
+  },
+  {
+    "index": 10,
+    "soal": "🌿 *Druid* (HP: 200/900) vs 👺 *Goblin* (HP: 50/500)\nMP kamu: 0/550\nHP kritis, MP habis, musuh hampir mati!\n\nSkill tersedia:\nA. Nature's Grasp (Basic, gratis + regen HP)\nB. Thorn Whip (55 MP - tidak bisa)\nC. Rejuvenation (80 MP - tidak bisa)\nD. Wrath of Nature (140 MP - tidak bisa)\n\nSatu-satunya pilihan yang bisa digunakan?",
+    "jawaban": "A",
+    "alt": "Nature's Grasp"
+  },
+  {
+    "index": 11,
+    "soal": "🏹 *Archer* (HP: 850/850) vs 💀 *Lich King* (HP: 2000/2000)\nMP kamu: 400/400\nBoss battle! Ingin memastikan serangan pertama kritis!\n\nSkill tersedia:\nA. Arrow Shot (Basic)\nB. Piercing Arrow (Abaikan 30% DEF)\nC. Eagle Eye (CRIT +30% selama 3 ronde)\nD. Rain of Arrows (CRIT terjamin, ultimate)\n\nSkill terbaik untuk opener boss battle?",
+    "jawaban": "C",
+    "alt": "Eagle Eye"
+  },
+  {
+    "index": 12,
+    "soal": "⚔️ *Knight* (HP: 600/1200) vs 🦹 *Dark Knight* (HP: 100/1200)\nMP kamu: 100/300\nMusuh hampir mati, HP kamu setengah!\n\nSkill tersedia:\nA. Sword Slash (Basic)\nB. Shield Bash (30 MP, stun)\nC. Iron Wall (50 MP, DEF up)\nD. Crusader's Wrath (100 MP, ultimate)\n\nSkill paling efisien untuk mengakhiri battle?",
+    "jawaban": "D",
+    "alt": "Crusader's Wrath"
+  },
+  {
+    "index": 13,
+    "soal": "🔮 *Mage* (HP: 750/750) vs 🐉 *Fire Dragon* (HP: 1500/1500)\nMP kamu: 600/600\nDragon memiliki HP sangat besar!\n\nSkill tersedia:\nA. Arcane Bolt (Basic)\nB. Fireball (Burn 2 ronde)\nC. Frost Nova (Slow SPD 40%)\nD. Meteor Storm (3.2x damage)\n\nSkill terbaik untuk efek jangka panjang melawan boss?",
+    "jawaban": "B",
+    "alt": "Fireball"
+  },
+  {
+    "index": 14,
+    "soal": "🗡️ *Assassin* (HP: 700/700) vs 🦹 *Dark Knight* (HP: 1200/1200)\nMP kamu: 450/450\nDark Knight sangat akurat, serangan kamu sering kena balik!\n\nSkill tersedia:\nA. Backstab (Basic)\nB. Shadow Strike (1.6x damage)\nC. Smokescreen (Kurangi akurasi musuh 50%)\nD. Death Mark (Ultimate)\n\nSkill terbaik untuk mengurangi serangan balik?",
+    "jawaban": "C",
+    "alt": "Smokescreen"
+  },
+  {
+    "index": 15,
+    "soal": "🌿 *Druid* (HP: 500/900) vs 🐉 *Fire Dragon* (HP: 1500/1500)\nMP kamu: 550/550\nDragon terus menyerang, HP kamu terus turun!\n\nSkill tersedia:\nA. Nature's Grasp (Basic + regen kecil)\nB. Thorn Whip (Pantulkan damage)\nC. Rejuvenation (Regen HP 3 ronde)\nD. Wrath of Nature (Ultimate + racun)\n\nSkill terbaik untuk sustain melawan boss?",
+    "jawaban": "C",
+    "alt": "Rejuvenation"
+  }
+]
