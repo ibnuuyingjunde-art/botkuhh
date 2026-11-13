@@ -1,0 +1,1 @@
+import Numlookupapi from '@everapi/numlookupapi-js'; const c = new Numlookupapi('num_live_6vihrHedZbw0AU8cq19l2mVcmjNzVtYdFwCBuTkN5'); c.validate('+6281234567890').then(r => console.log(JSON.stringify(r))).catch(e => console.log('ERROR:', e.message));
